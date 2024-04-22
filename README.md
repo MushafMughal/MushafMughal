@@ -1,10 +1,10 @@
 
 <div align='center'>
-<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+%7C+AI%2FML+%7C+Data+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python+%7C+AI+%7C+ML+%7C+Data+Enthusiast" alt="Typing SVG" />
 </div><be>
 
 # About Me
-<img align='right' src='https://programming-gifs.cyclic.app' height=200 alt='MushafMughal/Programming-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' height=230 alt='MushafMughal/Programming-Gifs'>
 
 Meet **Mushaf Sibtain** – a passionate data enthusiast with a background in Computer Science, relentlessly pursuing excellence in the world of data analysis and data science. Currently navigating my undergraduate journey, I'm already immersed in thrilling data-driven endeavors.
 
