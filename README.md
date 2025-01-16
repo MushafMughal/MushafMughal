@@ -28,6 +28,7 @@ Beyond the tools, I'm all about solving real-world problems using data. I believ
 
 ---
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
