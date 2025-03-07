@@ -1,4 +1,3 @@
-
 <div align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python+%7C+AI+%7C+ML+%7C+Data+Scientist" alt="Typing SVG" />
 </div><be>
